@@ -57,7 +57,7 @@ const Index = () => {
                 <span className="text-accent">«ВОЗРОЖДЕНИЕ»</span>
               </h1>
               <p className="text-xl text-muted-foreground mb-8">
-                Объединение людей для улучшения жизни членов кооператива через деятельность в области права
+                Объединение людей с целью улучшения жизни членов кооператива
               </p>
               <div className="flex gap-4">
                 <Button size="lg" onClick={() => scrollToSection("membership")} className="bg-primary hover:bg-primary/90">
