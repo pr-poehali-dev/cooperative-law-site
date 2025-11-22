@@ -381,7 +381,7 @@ const Index = () => {
                   </CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-muted-foreground">ДНР, г. Донецк, ул. Овнатоняна, д. 2, офис 202</p>
+                  <p className="text-muted-foreground">ДНР, г. Донецк, ул. Овнатоняна, д. 4, офис 202</p>
                 </CardContent>
               </Card>
 
@@ -451,7 +451,7 @@ const Index = () => {
             <div>
               <h3 className="font-semibold mb-4">Контакты</h3>
               <div className="space-y-2 text-sm text-primary-foreground/80">
-                <p>ДНР, г. Донецк, ул. Овнатоняна, д. 2</p>
+                <p>ДНР, г. Донецк, ул. Овнатоняна, д. 4</p>
                 <p>+7 949 509 06 66</p>
                 <p>pk.voz@yandex.ru</p>
               </div>
