@@ -381,7 +381,7 @@ const Index = () => {
                   </CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-muted-foreground">г. Москва, ул. Примерная, д. 1, офис 100</p>
+                  <p className="text-muted-foreground">ДНР, г. Донецк, ул. Овнатоняна, д. 2, офис 202</p>
                 </CardContent>
               </Card>
 
@@ -393,8 +393,9 @@ const Index = () => {
                   </CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-muted-foreground">+7 (495) 123-45-67</p>
-                  <p className="text-sm text-muted-foreground/70 mt-1">Пн-Пт: 9:00 - 18:00</p>
+                  <p className="text-muted-foreground">+7 949 509 06 66</p>
+                  <p className="text-muted-foreground">+7 949 503 56 66</p>
+                  <p className="text-sm text-muted-foreground/70 mt-1">Пн-Пт: 10:00 - 18:00</p>
                 </CardContent>
               </Card>
 
@@ -406,7 +407,7 @@ const Index = () => {
                   </CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-muted-foreground">info@vozrozhdenie-pk.ru</p>
+                  <p className="text-muted-foreground">pk.voz@yandex.ru</p>
                 </CardContent>
               </Card>
 
@@ -418,9 +419,8 @@ const Index = () => {
                   </CardTitle>
                 </CardHeader>
                 <CardContent className="space-y-1">
-                  <p className="text-muted-foreground">Понедельник - Пятница: 9:00 - 18:00</p>
-                  <p className="text-muted-foreground">Суббота: 10:00 - 15:00</p>
-                  <p className="text-muted-foreground">Воскресенье: выходной</p>
+                  <p className="text-muted-foreground">Понедельник - Пятница: 10:00 - 18:00</p>
+                  <p className="text-muted-foreground">Суббота - Воскресенье: выходной</p>
                 </CardContent>
               </Card>
             </div>
@@ -451,9 +451,9 @@ const Index = () => {
             <div>
               <h3 className="font-semibold mb-4">Контакты</h3>
               <div className="space-y-2 text-sm text-primary-foreground/80">
-                <p>г. Москва, ул. Примерная, д. 1</p>
-                <p>+7 (495) 123-45-67</p>
-                <p>info@vozrozhdenie-pk.ru</p>
+                <p>ДНР, г. Донецк, ул. Овнатоняна, д. 2</p>
+                <p>+7 949 509 06 66</p>
+                <p>pk.voz@yandex.ru</p>
               </div>
             </div>
           </div>
