@@ -20,9 +20,8 @@ const Index = () => {
       <header className="sticky top-0 z-50 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 border-b">
         <nav className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
-            <div className="flex items-center gap-2">
-              <Icon name="Scale" className="text-primary" size={32} />
-              <span className="text-2xl font-bold text-primary">ПК ВОЗРОЖДЕНИЕ</span>
+            <div className="flex items-center gap-3">
+              <img src="https://cdn.poehali.dev/files/54c5e1cf-c5c0-4da1-bcdf-2b7d90dc99a4.png" alt="ПК Возрождение" className="h-12" />
             </div>
             <div className="hidden md:flex gap-6">
               {[
@@ -433,8 +432,7 @@ const Index = () => {
           <div className="grid md:grid-cols-3 gap-8 mb-8">
             <div>
               <div className="flex items-center gap-2 mb-4">
-                <Icon name="Scale" size={28} />
-                <span className="text-xl font-bold">ПК ВОЗРОЖДЕНИЕ</span>
+                <img src="https://cdn.poehali.dev/files/54c5e1cf-c5c0-4da1-bcdf-2b7d90dc99a4.png" alt="ПК Возрождение" className="h-10" />
               </div>
               <p className="text-primary-foreground/80 text-sm">
                 Потребительский кооператив по деятельности в области права
